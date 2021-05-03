@@ -19,8 +19,8 @@ The project has 4 main topics:
 4. Comparing Performance Metrics
 
 Dependencies</br>
-Pandas</br>
-NumPy</br>
-SciKit-Learn</br>
-Seaborn</br>
-Matplotlib</br>
+1.Pandas</br>
+2.NumPy</br>
+3.SciKit-Learn</br>
+4.Seaborn</br>
+5.Matplotlib</br>
