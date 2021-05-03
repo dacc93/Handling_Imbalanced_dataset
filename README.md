@@ -18,9 +18,9 @@ The project has 4 main topics:
 3. Model Building
 4. Comparing Performance Metrics
 
-Dependencies
-Pandas
-NumPy
-SciKit-Learn
-Seaborn
-Matplotlib
+Dependencies</br>
+Pandas</br>
+NumPy</br>
+SciKit-Learn</br>
+Seaborn</br>
+Matplotlib</br>
