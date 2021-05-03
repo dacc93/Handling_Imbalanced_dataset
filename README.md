@@ -24,3 +24,7 @@ Dependencies</br>
 3.SciKit-Learn</br>
 4.Seaborn</br>
 5.Matplotlib</br>
+
+If you want to know more about How to Handle Imbalanced dataset then here is my link to my blog:
+
+https://shivamkc01.medium.com/handling-imbalanced-dataset-in-machine-learning-9ac075787e07
